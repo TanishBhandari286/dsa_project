@@ -69,3 +69,16 @@
 ---
 
 These questions are designed to assess a developer's comprehensive understanding of the repository's algorithms, structure, and design decisions, alongside their knowledge of complexity and testing principles that are critical in software engineering.
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: iterative loop(s) present (baseline O(n))
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.
+
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: iterative loop(s) present (baseline O(n))
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.

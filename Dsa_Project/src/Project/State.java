@@ -116,3 +116,17 @@ public class State {
  * 
  * By following these approaches, you can improve the robustness, maintainability, and efficiency of your `State` class.
  */
+
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: has nested loops (likely O(n^2) or worse)
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.
+
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: has nested loops (likely O(n^2) or worse)
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.

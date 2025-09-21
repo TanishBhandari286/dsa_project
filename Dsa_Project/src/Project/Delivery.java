@@ -109,3 +109,19 @@ public class Delivery {
  * 
  * Overall, the `Delivery` class is succinct but should ensure defensive programming principles are applied to enhance reliability in more extensive applications.
  */
+
+// --- Auto Review (development) ---
+// Development Review
+// - Prefer constants for magic numbers and strings.
+// - Factor shared logic into helpers to keep functions small.
+// - Add brief docstring/comments for non-obvious branches.
+// - Add type hints and use a linter/formatter (ruff/black).
+// - Replace prints with structured logging.
+
+// --- Auto Review (development) ---
+// Development Review
+// - Prefer constants for magic numbers and strings.
+// - Factor shared logic into helpers to keep functions small.
+// - Add brief docstring/comments for non-obvious branches.
+// - Add type hints and use a linter/formatter (ruff/black).
+// - Replace prints with structured logging.
