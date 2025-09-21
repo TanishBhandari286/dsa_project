@@ -108,3 +108,10 @@ public class Vehicle {
 // Easy: Detect and remove cycle (Floyd) and find cycle start.
 // Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
 // Hard: LRU cache with list+hash; operations and complexity.
+
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: has nested loops (likely O(n^2) or worse)
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.
