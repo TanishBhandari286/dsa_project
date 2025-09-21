@@ -101,3 +101,10 @@ public class Vehicle {
  * 
  * This thorough review evaluates the code for readability, efficiency, and potential edge cases. The suggested optimizations and alternative techniques would enhance robustness while retaining clarity.
  */
+
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: has nested loops (likely O(n^2) or worse)
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.

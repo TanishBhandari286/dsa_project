@@ -102,3 +102,10 @@ public class Main {
  * ### Conclusion
  * Overall, while the original code is simple and meets its objective without performance issues, there are opportunities to make it more dynamic. Further, potential edge case considerations should be implemented to enhance robustness.
  */
+
+// --- Auto Review (DSA) ---
+// DSA Review (Linked List)
+// Complexity hints: has nested loops (likely O(n^2) or worse)
+// Easy: Detect and remove cycle (Floyd) and find cycle start.
+// Medium: Merge two sorted lists; iterative vs. recursive tradeoffs.
+// Hard: LRU cache with list+hash; operations and complexity.
